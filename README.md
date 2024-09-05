@@ -136,7 +136,7 @@ public class AppConfig {
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-
+- install STS in your system
 - Java 17 or higher
 - Maven (for building and managing the project)
 - MySQL (for the database)
