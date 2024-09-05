@@ -1,4 +1,4 @@
-# School_Modelmapper
+# School_ModelMapper
 
 ## Overview
 
